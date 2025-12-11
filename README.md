@@ -26,11 +26,11 @@
   <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/SEU-LINK/">
-  <img src="[https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white](https://www.linkedin.com/in/devericksaraiva/)" />
+<a href="[https://www.linkedin.com/in/SEU-LINK/](https://www.linkedin.com/in/devericksaraiva/)">
+ <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://wa.me/5599999999999">
+<a href="https://wa.me/+559293847070">
   <img src="https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white" />
 </a>
 
