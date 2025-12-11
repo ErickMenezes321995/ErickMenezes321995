@@ -21,7 +21,7 @@
 ---
 
 ### 📬 Contatos
-
+<div style="display: flex; gap: 10px;">
 <a href="mailto:ericksaraiva30@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
 </a>
@@ -33,4 +33,4 @@
 <a href="https://wa.me/+559293847070">
   <img src="https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white" />
 </a>
-
+</div>
