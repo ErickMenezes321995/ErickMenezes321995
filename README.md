@@ -22,11 +22,11 @@
 
 ### 📬 Contatos
 <div style="display: flex; gap: 10px;">
-<a href="mailto:ericksaraiva30@gmail.com">
+<a href="ericksaraiva30@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
 </a>
 
-<a href="[https://www.linkedin.com/in/SEU-LINK/](https://www.linkedin.com/in/devericksaraiva/)">
+<a href="https://www.linkedin.com/in/devericksaraiva/">
  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
 </a>
 
