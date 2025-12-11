@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
+  <img src="SUA-FOTO-AQUI" width="200" style="border-radius: 50%" />
+  
+  <h1>Olá, eu sou o Erick, Desenvolvedor Front-End!</h1>
 
-<!--
-**ErickMenezes321995/ErickMenezes321995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>Desenvolvedor web sempre evoluindo e criando projetos do zero na prática.</p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tecnologias
+
+<div style="display: flex; gap: 10px;">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+---
+
+### 📬 Contatos
+
+<a href="mailto:SEUEMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/SEU-LINK/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://wa.me/5599999999999">
+  <img src="https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white" />
+</a>
+
