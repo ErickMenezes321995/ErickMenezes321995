@@ -22,12 +22,12 @@
 
 ### 📬 Contatos
 
-<a href="mailto:SEUEMAIL@gmail.com">
+<a href="mailto:ericksaraiva30@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/SEU-LINK/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  <img src="[https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white](https://www.linkedin.com/in/devericksaraiva/)" />
 </a>
 
 <a href="https://wa.me/5599999999999">
