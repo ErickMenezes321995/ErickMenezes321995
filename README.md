@@ -1,6 +1,6 @@
 <div align="center">
    
-  <h1>Olá, eu sou o Erick, Desenvolvedor Front-End!</h1>
+  <h1>Olá, eu sou o Erick, Desenvolvedor FullStack!</h1>
 
   <p>Desenvolvedor web sempre evoluindo e criando projetos do zero na prática.</p>
 </div>
