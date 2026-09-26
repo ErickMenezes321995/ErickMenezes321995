@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Olá, eu sou o Erick 👋</h1>
+  <h1>Olá, eu sou o Erick</h1>
 
   <h3>Desenvolvedor de Software | Java • Spring Boot • React • TypeScript</h3>
 
