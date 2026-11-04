@@ -3,7 +3,7 @@
 
 # Olá, eu sou o Erick Saraiva!
 
-### 🎓 Estudante de ADS | Java & Spring Boot
+### 🎓 Estudante de ADS | Java | Spring Boot
 
 🚀 Buscando oportunidade de **estágio em Desenvolvimento de Software**.
 
