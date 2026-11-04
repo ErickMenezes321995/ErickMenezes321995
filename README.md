@@ -3,10 +3,7 @@
 
 # Olá, eu sou o Erick Saraiva!
 
-<h3>
-  🎓 Estudante de ADS | Java |
-  <span translate="no">Spring Boot</span>
-</h3>
+### 🎓 Estudante de ADS | Java | Spring Boot e APIs REST
 
 🚀 Buscando oportunidade de **estágio em Desenvolvimento de Software**.
 
@@ -22,7 +19,7 @@ Desenvolvo aplicações Full Stack, com foco em backend, APIs REST e banco de da
 ### Sobre mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas — Uninorte (3º período)**
-- ☕ Foco em **Java, Spring Boot e APIs REST**
+- ☕ Foco em **Java,**
 - 💻 Conhecimentos em **React, TypeScript e Node.js**
 - 📚 Estudando testes automatizados e boas práticas de desenvolvimento
 
